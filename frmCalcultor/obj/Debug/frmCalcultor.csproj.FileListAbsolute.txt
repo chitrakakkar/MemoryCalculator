@@ -1,0 +1,27 @@
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\bin\Debug\frmCalcultor.exe.config
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\obj\Debug\frmCalcultor.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\obj\Debug\frmCalcultor.FrmCalculator.resources
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\obj\Debug\frmCalcultor.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\obj\Debug\frmCalcultor.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\bin\Debug\frmCalcultor.exe
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\bin\Debug\frmCalcultor.pdb
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\obj\Debug\frmCalcultor.exe
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor\frmCalcultor\obj\Debug\frmCalcultor.pdb
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\bin\Debug\frmCalcultor.exe.config
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\obj\Debug\frmCalcultor.exe
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\obj\Debug\frmCalcultor.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\obj\Debug\frmCalcultor.FrmCalculator.resources
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\obj\Debug\frmCalcultor.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\obj\Debug\frmCalcultor.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\bin\Debug\frmCalcultor.exe
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\bin\Debug\frmCalcultor.pdb
+E:\chitra\chitra fall 2015\Visual C#\frmCalcultor - Copy\frmCalcultor\obj\Debug\frmCalcultor.pdb
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\bin\Debug\frmCalcultor.exe.config
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\obj\Debug\frmCalcultor.exe
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\obj\Debug\frmCalcultor.pdb
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\bin\Debug\frmCalcultor.exe
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\bin\Debug\frmCalcultor.pdb
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\obj\Debug\frmCalcultor.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\obj\Debug\frmCalcultor.FrmCalculator.resources
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\obj\Debug\frmCalcultor.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\C#Projects-Individual\project-14-1-Memory Calculator\frmCalcultor\obj\Debug\frmCalcultor.csproj.GenerateResource.Cache
